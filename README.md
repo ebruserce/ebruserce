@@ -6,7 +6,7 @@
 ---
 
 ## 🚀 What I’m Working On  
-- ⏱️ **Pomodoro Productivity App** – A custom Pomodoro timer with **Todoist API integration**, so tasks and focus sessions sync seamlessly.  
+- ⏱️ **POMOGROWO** – A custom Pomodoro timer app with **Todoist API integration**, so tasks and focus sessions sync seamlessly. See how it's going [here!](https://pomodoro-timer-one-silk.vercel.app/)  
 - 💻 Experimenting with **frontend-backend integration** and state persistence (localStorage, server-side data).  
 - 📚 Sharpening my **algorithms & data structures** skills in prep for internship recruiting season.  
 
