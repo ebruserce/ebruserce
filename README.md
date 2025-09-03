@@ -36,4 +36,4 @@
 
 ✨ *Always curious, always building. My current focus: turning ideas into projects that actually make life easier.*  
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?ebruserce=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ebruserce)](https://github.com/anuraghazra/github-readme-stats)
