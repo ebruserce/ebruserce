@@ -1,16 +1,37 @@
-## Hey there!!👋
+# Hi, I’m Ebru 👋  
 
-<!--
-**ebruserce/ebruserce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I’m a Computer Science student at the **University of Washington** passionate about building useful, intuitive apps and learning how technology can shape everyday life.  
+💡 Right now, I’m diving deep into **full-stack development** — bringing together **React, TypeScript, Node/Express, and APIs** to create clean, functional projects.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I’m Working On  
+- ⏱️ **Pomodoro Productivity App** – A custom Pomodoro timer with **Todoist API integration**, so tasks and focus sessions sync seamlessly.  
+- 💻 Experimenting with **frontend-backend integration** and state persistence (localStorage, server-side data).  
+- 📚 Sharpening my **algorithms & data structures** skills in prep for internship recruiting season.  
+
+---
+
+## 🛠️ Tech Stack  
+- **Languages:** TypeScript, JavaScript, Python, Java  
+- **Frontend:** React, TailwindCSS  
+- **Backend:** Node.js, Express  
+- **Databases:** PostgreSQL  
+- **Tools:** Git, GitHub, VS Code, Docker (learning!)  
+
+---
+
+## 🌱 Currently Learning  
+- How to build reliable **server-client APIs**  
+- Scalable deployment with **Vercel/Netlify**  
+- More advanced **system design concepts**  
+
+---
+
+## 📫 Let’s Connect  
+- [LinkedIn](https://www.linkedin.com/in/ebruserce/)  
+- [Personal Website/Portfolio](#) *(coming soon!)*  
+
+---
+
+✨ *Always curious, always building. My current focus: turning ideas into projects that actually make life easier.*  
