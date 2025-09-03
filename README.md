@@ -13,11 +13,11 @@
 ---
 
 ## 🛠️ Tech Stack  
-- **Languages:** TypeScript, JavaScript, Python, Java  
+- **Languages:** TypeScript, JavaScript, Python, Java, C++, C#  
 - **Frontend:** React, TailwindCSS  
 - **Backend:** Node.js, Express  
 - **Databases:** PostgreSQL  
-- **Tools:** Git, GitHub, VS Code, Docker (learning!)  
+- **Tools:** Git, GitHub, VS Code, Unity
 
 ---
 
